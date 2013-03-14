@@ -39,9 +39,9 @@ func main() {
          if line[len(line)-1] == '\n' {
             line = line[:len(line)-1]
          }
-         fields, err := csvsplit.Split(line)
-         if err != nil {
-            fmt.Println(err)
+         fields, splitErr := csvsplit.Split(line)
+         if splitErr != nil {
+            fmt.Println(splitErr)
          }
          fmt.Println(fields)
        }
