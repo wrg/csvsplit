@@ -81,7 +81,7 @@ Features
 
     * Properly handles quotes and nested quotes
 
-    * Lightweight - no unwanted code imported into you application
+    * Lightweight - no unwanted code imported into your application
 Todo
 ====
 
