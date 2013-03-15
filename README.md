@@ -88,7 +88,7 @@ Features
 Todo
 ====
 
-   * Cannot change the field separator, would like to make that an option in a future release.
+    * Cannot change the field separator, would like to make that an option in a future release.
 
 Install
 =======
@@ -96,6 +96,10 @@ Install
 The easiest installation of csvsplit is done through goinstall.
 
     goinstall github.com/x86pgmer/csvsplit
+    
+    or
+    
+    go get github.com/x86pgmer/csvsplit
 
 Documentation
 =============
