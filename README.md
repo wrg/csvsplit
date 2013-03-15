@@ -26,7 +26,7 @@ import (
    "bufio"
    "fmt"
    "os"
-   "github.com/x86pgmer/csvsplit"
+   "github.com/wrg/csvsplit"
 )
 
 func main() {
@@ -95,7 +95,7 @@ Install
 
 The easiest installation of csvsplit is done through go get.
     
-    go get github.com/x86pgmer/csvsplit
+    go get github.com/wrg/csvsplit
 
 Documentation
 =============
@@ -103,7 +103,7 @@ Documentation
 The best way to read the current csvsplit documentation is using
 godoc.
 
-    godoc github.com/x86pgmer/csvsplit
+    godoc github.com/wrg/csvsplit
 
 Or better yet, you can run a godoc http server.
 
