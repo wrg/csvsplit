@@ -93,11 +93,7 @@ Todo
 Install
 =======
 
-The easiest installation of csvsplit is done through goinstall.
-
-    goinstall github.com/x86pgmer/csvsplit
-    
-    or
+The easiest installation of csvsplit is done through go get.
     
     go get github.com/x86pgmer/csvsplit
 
