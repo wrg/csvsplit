@@ -77,7 +77,7 @@ About
 
     csvsplit is a lightweight string parser that will split the input text into
     an array of strings.  It is not intended to be a full blown file parser, and
-    will does not do any type conversion.
+    does not do any type conversion.
 
 Features
 ========
